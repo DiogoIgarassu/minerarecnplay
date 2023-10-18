@@ -15,7 +15,7 @@ Você precisa baixar o Chrome versão 118 e o ChromeDriver compatível com essa 
 
 ### 3. Configuração do caminho do ChromeDriver:
 Defina o caminho para o `chromedriver` na variável `CHROME_DRIVER_PATH` no script:
-```python
+
 CHROME_DRIVER_PATH = '/usr/bin/chromedriver'
 
 Este caminho deve apontar para onde o chromedriver está localizado em seu sistema.
